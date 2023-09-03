@@ -1,5 +1,9 @@
 <!-- FileLocker Project -->
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 <!-- Project Title -->
 <div align="center">
   <h3 align="center">FileLocker</h3>
@@ -41,6 +45,8 @@
 
 <!-- About The Project -->
 ## About The Project
+
+![product-screenshot]
 
 The FileLocker project is a robust file protection application designed to safeguard your important files. It offers a range of powerful features to ensure your data's privacy and security. Whether you want to simply hide files, encrypt them, or even secure the binary files, FileLocker has you covered.
 
@@ -107,3 +113,15 @@ Remember to keep your password secure and avoid sharing it with unauthorized ind
 Enjoy using FileLocker to protect your valuable files and maintain your privacy!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/BitMap7487/FileLocker.svg?style=for-the-badge
+[contributors-url]: https://img.shields.io/github/contributors/BitMap7487/FileLocker
+[forks-shield]: https://img.shields.io/github/forks/BitMap7487/FileLocker.svg?style=for-the-badge
+[forks-url]: https://github.com/BitMap7487/FileLocker/network/members
+[stars-shield]: https://img.shields.io/github/stars/BitMap7487/FileLocker.svg?style=for-the-badge
+[stars-url]: https://github.com/BitMap7487/FileLocker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BitMap7487/FileLocker.svg?style=for-the-badge
+[issues-url]: https://github.com/BitMap7487/FileLocker/issues
+[license-shield]: https://img.shields.io/github/license/BitMap7487/FileLocker.svg?style=for-the-badge
+[license-url]: https://github.com/BitMap7487/FileLocker/blob/master/LICENSE.txt
+[product-screenshot]: https://cdn.discordapp.com/attachments/1074327722513408010/1147970827258708049/FileSafe.gif
