@@ -1,0 +1,8 @@
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\bin\Debug\PictureSafe.exe.config
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\bin\Debug\PictureSafe.exe
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\bin\Debug\PictureSafe.pdb
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\obj\Debug\PictureSafe.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\obj\Debug\PictureSafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\obj\Debug\PictureSafe.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\obj\Debug\PictureSafe.exe
+C:\Users\Bryan\source\repos\PictureSafe\PictureSafe\obj\Debug\PictureSafe.pdb

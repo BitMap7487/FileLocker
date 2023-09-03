@@ -1,0 +1,8 @@
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\bin\Debug\FileSafe.exe.config
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\bin\Debug\FileSafe.exe
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\bin\Debug\FileSafe.pdb
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\obj\Debug\FileSafe.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\obj\Debug\FileSafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\obj\Debug\FileSafe.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\obj\Debug\FileSafe.exe
+C:\Users\Bryan\source\repos\FileSafe\FileSafe\obj\Debug\FileSafe.pdb
